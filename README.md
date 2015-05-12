@@ -1,0 +1,2 @@
+# centos-puppet
+centos-puppet
